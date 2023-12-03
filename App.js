@@ -1,6 +1,6 @@
 import "./App.css";
-import UsersList from "./Components/UsersList";
-import { ErrorBoundary } from "./ErrorHandling/ErrorBoundary";
+import UsersList from "./UsersList";
+import { ErrorBoundary } from "./ErrorBoundary";
 
 function App() {
   return (
